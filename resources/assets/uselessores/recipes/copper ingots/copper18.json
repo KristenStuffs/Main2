@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC", 
+        "CCC",   
+        "CCC"   
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "ingot_copper17"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ingot_copper18",
+        "count": 1
+    }
+}

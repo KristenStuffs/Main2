@@ -1,0 +1,155 @@
+{
+    "pools": [
+        {
+      "name": "uselessores:junkyard_above",        
+            "rolls": {
+                "min": 3,
+                "max": 3
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "uselessores:spade_item_item"
+                },
+                {
+                    "type": "item",
+                    "weight": 20,
+                    "name": "uselessores:pickaxe_item_item"
+                },
+                {
+                    "type": "item",
+                    "weight": 20,
+                    "name": "uselessores:axe_item_item"
+                },
+                {
+                    "type": "item",
+                    "weight": 20,
+                    "name": "uselessores:sword_item_item"
+                },
+                {
+                    "type": "item",
+                    "weight": 20,
+                    "name": "uselessores:hoe_item_item"
+                },
+                {
+                    "type": "item",
+                    "weight": 30,
+                    "name": "uselessores:ingot_item_item",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 2,
+                                "max": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 30,
+                    "name": "uselessores:ingot_copper1",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 7
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 45,
+                    "name": "uselessores:litter",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 6,
+                                "max": 19
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 45,
+                    "name": "uselessores:nugget_copper1",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 6,
+                                "max": 19
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 15,
+                    "name": "uselessores:ingot_copper2",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 7,
+                    "name": "uselessores:ingot_copper3",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 5,
+                    "name": "uselessores:block_copper1",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 5,
+                    "name": "uselessores:i_cant_believe_its_not_flint"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "uselessores:logs_copper",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 7
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

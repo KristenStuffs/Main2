@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "uselessores:logs_copper" },
+        "axis=z":     { "model": "uselessores:logs_copper", "x": 90 },
+        "axis=x":     { "model": "uselessores:logs_copper", "x": 90, "y": 90 },
+        "axis=none":   { "model": "uselessores:logs_copper" }
+    }
+}
